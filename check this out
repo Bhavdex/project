@@ -2,23 +2,27 @@
 <html lang="en">
 <head>
   <title>Millennium ecommerce</title>
+  <div style="font-family:harlow solid">
+    <div style="background-color:dodgerblue;">
     <h1 style ="text-align: left;"> Millennium ecomerce.com</h1>
+  </div>
+  </div>
     <link rel = "stylesheet" href = "stylesheet.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 </head>
 <body>  
     </head>
     <body>
-      <div style="background-color:powderblue;">
+     
     <div class="dropdown">
-      <button class="btn btn-primary">Categories</button>
-      <div class="dropdown-content">
+      <button class="btn btn-light"><h4>Categories</h4></button>
+      <div class="dropdown-content">&nbsp;&nbsp;
         <a href="#">Groceries</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="#">Electronics</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="#">Stationary</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="#">Clothing</a>
       </div>
     </div>
-      </div>
+     
 </body>
 </html>
